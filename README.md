@@ -36,10 +36,6 @@ In this Repository documents contains the 3rd week's project of Cybersecurity In
 
 ![App Screenshot](file%203%20final.png)  
 
-5. Content Of Locked File 1, 2, and 3.
-
-![App Screenshot](file%203%20final.png) 
-
 # USing Networkwalks Tools
 1. Create the Hashes of Locked File 1, 2, 3.
 
@@ -48,3 +44,44 @@ In this Repository documents contains the 3rd week's project of Cybersecurity In
 ![App Screenshot](nw%20file%202%20hash.png)
 
 ![App Screenshot](nw%20file%203%20hash.png)
+
+2. Cracked Passwords Using Networkwalks Password Cracking Tool
+
+![App Screenshot](nw%20file%202%20pass.png)
+
+# Content Of Locked PDF Files
+
+Content Of Locked File 1, 2, and 3.
+
+![App Screenshot](first%20file%20content.png) 
+
+![App Screenshot](second%20pdf%20content.png) 
+
+![App Screenshot](file%203%20content.png) 
+
+# 🚩 Challenges Encountered and Soulutions
+• Problem:  
+While Cracking the password of Locked File 1 using the Networkwalks Hash Calculating tool I couldn't find the password in default document of passwords.  
+• Solution:
+I used another password document for the password.
+
+# 🛠️ Resource Used
+• John The Ripper:  
+https://www.openwall.com/john/    
+
+• Online HashCracker:  
+https://www.onlinehashcrack.com/password-recovery-service.php    
+
+• Networkwalks Password Cracking Tool:  
+https://networkwalks.com/project-task-lab-password-cracking-with-networkwalks-tools/    
+
+• Networkwalks Hash Calculator:  
+https://networkwalks.com/hash-calculator/
+
+# 👤 Author
+Ketan Kamble  
+Cyber Security and Forensics Student  
+LinkedIn: https://www.linkedin.com/in/ketan-kamble-237a63316/
+
+# 🗂️ Project Information
+Program Name: Cybersecurity at Networkwalks | Week: 02 | Project: Password Cracking ( John The Ripper & Networkwalks Tools )| Repository: GitHub
