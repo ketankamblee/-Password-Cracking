@@ -36,7 +36,7 @@ In this Repository documents contains the 3rd week's project of Cybersecurity In
 
 ![App Screenshot](file%203%20final.png)  
 
-# USing Networkwalks Tools
+# Using Networkwalks Tools
 1. Create the Hashes of Locked File 1, 2, 3.
 
 ![App Screenshot](nw%20file%201%20hash.png)
