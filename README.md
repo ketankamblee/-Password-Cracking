@@ -84,4 +84,4 @@ Cyber Security and Forensics Student
 LinkedIn: https://www.linkedin.com/in/ketan-kamble-237a63316/
 
 # 🗂️ Project Information
-Program Name: Cybersecurity at Networkwalks | Week: 02 | Project: Password Cracking ( John The Ripper & Networkwalks Tools )| Repository: GitHub
+Program Name: Cybersecurity at Networkwalks | Week: 03 | Project: Password Cracking ( John The Ripper & Networkwalks Tools )| Repository: GitHub
